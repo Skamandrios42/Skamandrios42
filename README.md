@@ -1,4 +1,4 @@
-Hi, I’m @Skamandrios42 and I ❤️ functional programming and designing languages, typesystems and compilers.
+Hi, I’m @Skamandrios42 and I ❤️ functional programming, music and nature.
 
 <!---
 - 👋 Hi, I’m @Skamandrios42
